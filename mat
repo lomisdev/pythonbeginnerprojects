@@ -1,0 +1,6 @@
+n = [10, 20]
+li = ['cahir', 'table']
+
+for x in n:
+    for y in li:
+        print(x,y)
